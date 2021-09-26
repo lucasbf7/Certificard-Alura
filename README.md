@@ -1,4 +1,4 @@
-# Certificard-Alura-
+# Certificard-Alura
 
 ## Sobre o Certificard
 O certificard foi o projeto final criado na imersãoDEV da Alura onde reune-se todos os projetos desenvolvidos na imersão em um só, como se fosse um site/portfólio.
